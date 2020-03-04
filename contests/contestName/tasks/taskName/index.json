@@ -1,0 +1,17 @@
+{
+    "slug": "tea004_a",
+    "position": "A",
+    "name": "Plus and Minus",
+    "difficulty": "Milk",
+    "statement": "整数 $A$ と $B$ が与えられます。 $A+B$ と $A-B$ の値をそれぞれ求めてください。",
+    "constraints": "- $-10^{15} \\leq A, B \\leq 10^{15}$",
+    "inputFormat": "入力は以下の形式で標準入力から与えられる。\n```\n$A$ $B$\n```",
+    "outputFormat": "$A+B$ と $A-B$ を空白区切りで出力せよ。",
+    "samples": [
+        {
+            "input": "3 5",
+            "output": "8 -2",
+            "explanation": "$3+5=8$, $3-5=-2$ です。"
+        }
+    ]
+}

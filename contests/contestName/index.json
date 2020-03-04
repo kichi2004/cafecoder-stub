@@ -1,0 +1,18 @@
+{
+    "slug": "tea004",
+    "name": "Tea Break 004",
+    "tasks": [
+        {
+            "name": "Plus and Minus",
+            "slug": "tea004_a",
+            "position": "A",
+            "difficulty": "Milk"
+        },
+        {
+            "name": "test problem",
+            "slug": "tea004_b",
+            "position": "B",
+            "difficulty": "Earlgray"
+        }
+    ]
+}

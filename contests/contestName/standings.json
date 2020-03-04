@@ -1,0 +1,104 @@
+{
+    "problems": [
+        {
+            "name": "A",
+            "slug": "tea001_A",
+            "solved": 3,
+            "tried": 3
+        },
+        {
+            "name": "B",
+            "slug": "tea001_B",
+            "tried": 3,
+            "solved": 3
+        },
+        {
+            "name": "C",
+            "slug": "tea001_C",
+            "tried": 2,
+            "solved": 1
+        }
+    ],
+    "standings": [
+        {
+            "userName": "tatyam",
+            "result": {
+                "score": 600,
+                "time": 179
+            },
+            "problems": [
+                {
+                    "score": 100,
+                    "time": 49
+                },
+                {
+                    "score": 200,
+                    "time": 99
+                },
+                {
+                    "score": 300,
+                    "time": 179
+                }
+            ]
+        },
+        {
+            "userName": "kichi2004",
+            "result": {
+                "score": 300,
+                "time": 545,
+                "penalty": 1
+            },
+            "problems": [
+                {
+                    "score": 100,
+                    "time": 49
+                },
+                {
+                    "score": 200,
+                    "time": 125,
+                    "penalty": 1
+                },
+                {
+                    "penalty": 0
+                }
+            ]
+        },
+        {
+            "userName": "earlgray283",
+            "result": {
+                "score": 300,
+                "time": 14105,
+                "penalty": 35
+            },
+            "problems": [
+                {
+                    "score": 100,
+                    "time": 259,
+                    "penalty": 10
+                },
+                {
+                    "score": 200,
+                    "time": 3605,
+                    "penalty": 25
+                },
+                {}
+            ]
+        },
+        {
+            "userName": "chokudai",
+            "result": {
+                "score": 200,
+                "time": 45,
+                "penalty": 0
+            },
+            "problems": [
+                {},
+                {
+                    "score": 200,
+                    "time": 45
+                },
+                {}
+            ]
+        }
+    ]
+}

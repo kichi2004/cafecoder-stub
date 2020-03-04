@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2020-03-01T13:02:15.747Z",
+        "user": {
+            "name": "kichi2004"
+        },
+        "task": {
+            "name": "Plus and Minus",
+            "slug": "tea004_a",
+            "position": "A",
+            "difficulty": "Milk"
+        },
+        "result": "AC",
+        "executionTime": 1200,
+        "memory": 450,
+        "points": 50
+    }
+]

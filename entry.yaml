@@ -1,0 +1,36 @@
+-
+  request: 
+    url: /contests
+    method: GET
+  response:
+    status: 200
+    file: contests/index.json
+
+-
+  request:
+    url: /contests/:contestName
+    method: GET
+  response:
+    status: 200
+    file: contests/contestName/index.json
+-
+  request:
+    url: /contests/:contestName/tasks/:taskName
+    method: GET
+  response:
+    status: 200
+    file: contests/contestName/tasks/taskName/index.json
+-
+  request:
+    url: /contests/:contestName/standings
+    method: GET
+  response:
+    status: 200
+    file: contests/contestName/standings.json
+-
+  request:
+    url: /contests/:contestName/submits/all
+    method: GET
+  response:
+    status: 200
+    file: contests/contestName/submits/all.json
